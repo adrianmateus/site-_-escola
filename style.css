@@ -3,5 +3,8 @@ header{
     color: white;
 }
 .cabeçalho-imagem{
-    width: 20%;
+    background-color: #383d58;
+    color: white;
+    diplay: flex;
+    justify-content:space-around;
 }
