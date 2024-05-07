@@ -15,6 +15,8 @@
  .cabeçalho-lista-item{
    display: inline-block;
    margin: 0 16px; 
+   padding: 24px 0;
+   font-size: 24px;
 }
 <img class="escola-imagem" 
         src="/img/Student stress-amico.png" 
