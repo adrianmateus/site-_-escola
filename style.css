@@ -1,10 +1,18 @@
-header{
-    background-color: #383d58;
-    color: white;
+*{
+    margin: 0;
+    padding: 0;
 }
-.cabeçalho-imagem{
+.cabeçalho{
     background-color: #383d58;
     color: white;
-    diplay: flex;
-    justify-content:space-around;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+
+
+} 
+
+ .cabeçalho-lista-item{
+   display: inline-block;
+   margin: 0 16px; 
 }
