@@ -16,3 +16,11 @@
    display: inline-block;
    margin: 0 16px; 
 }
+<img class="escola-imagem" 
+        src="/img/Student stress-amico.png" 
+        alt="Estudante Estressado">
+
+ .escola-imagem{
+    widht: 25%;
+
+ }       
